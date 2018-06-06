@@ -15,12 +15,15 @@ The dynamic stylesheet language
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/less.js-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/less.js-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/less.js-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/less.js-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/less.js/badges/version.svg)](https://anaconda.org/conda-forge/less.js)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/less.js/badges/downloads.svg)](https://anaconda.org/conda-forge/less.js)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-less.js-green.svg)](https://anaconda.org/conda-forge/less.js) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/less.js.svg)](https://anaconda.org/conda-forge/less.js) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/less.js.svg)](https://anaconda.org/conda-forge/less.js) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/less.js.svg)](https://anaconda.org/conda-forge/less.js) |
 
 Installing less.js
 ==================
