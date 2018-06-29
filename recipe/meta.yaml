@@ -1,6 +1,6 @@
 {% set name = "less.js" %}
-{% set version = "3.0.1" %}
-{% set sha256 = "01b6117b9d33bfc86c6e28ba7c870f7ba454b07826f630caed40bcdf93ec4881" %}
+{% set version = "3.5.0" %}
+{% set sha256 = "77fbafccf3575735a9176d70a8d6a1945e05065de813ac7a035253ff1b626329" %}
 
 package:
   name: {{ name|lower }}
