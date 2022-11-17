@@ -1,6 +1,6 @@
 {% set name = "less.js" %}
-{% set version = "3.10.3" %}
-{% set sha256 = "3ef6ba45e7b3a7159792cc6a996f0de196360c5e1f982b774fe9941b82e80498" %}
+{% set version = "3.12.0" %}
+{% set sha256 = "6f5c1a2a629205a726a0b2d375cc8892b46d45b00018f8db189b916b41dc2ee0" %}
 
 package:
   name: {{ name|lower }}
@@ -20,20 +20,20 @@ build:
 requirements:
   build:
     - nodejs
-  
+
 test:
   commands:
     - npm list -g less
   requires:
     - nodejs
-   
+
 
 about:
   home: https://github.com/less/less.js
   license: Apache-2.0
   license_family: Apache
   license_file: LICENSE
-  summary: 'The dynamic stylesheet language'
+  summary: The dynamic stylesheet language
   description: |
     The dynamic stylesheet language
   doc_url: http://lesscss.org/
