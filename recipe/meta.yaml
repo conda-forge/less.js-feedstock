@@ -38,3 +38,6 @@ about:
     The dynamic stylesheet language
   doc_url: http://lesscss.org/
   dev_url: https://github.com/less/less.js
+
+extra:
+  recipe-maintainers: []
